@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Powie's WHOIS Domain Check\n"
+"POT-Creation-Date: 2019-06-24 12:30-0400\n"
+"PO-Revision-Date: 2019-06-24 12:38-0400\n"
+"Last-Translator: \n"
+"Language-Team: Thomas Ehrhardt\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_x;_n;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: powies-whois.php:36
+msgid "Powie's WHOIS Setup"
+msgstr "Configuración de Powie's WHOIS"
+
+#: powies-whois.php:58
+msgid "Domain"
+msgstr "Dominio"
+
+#: powies-whois.php:73
+msgid "Check"
+msgstr "Comprobar"
+
+#: powies-whois.php:75
+msgid "Waiting for domain lookup!"
+msgstr "Esperando la comprobación de dominio"
+
+#: powies-whois.php:85
+msgid "Domain is available"
+msgstr "El dominio está disponible"
+
+#: powies-whois.php:88
+msgid "Domain is unavailable"
+msgstr "El dominio no está disponible"
+
+#: powies-whois.php:119
+msgid "Please enter Domain"
+msgstr "Escribe un nombre de dominio"
+
+#: powies-whois.php:183
+msgid "Error: No appropriate Whois server found for "
+msgstr "Error: No se ha encontrado un servidor Whois apropiado para "
+
+#: powies-whois.php:193
+msgid "Invalid Input"
+msgstr "Entrada inválida"
+
+#: powies-whois.php:210
+msgid "Whois Server timeout"
+msgstr "Tiempo de espera del servidor Whois"
+
+#: pwhois_settings.php:2
+msgid "Powie's WHOIS Settings"
+msgstr "Ajustes de Powie's WHOIS"
+
+#: pwhois_settings.php:9
+msgid "Result Settings"
+msgstr "Ajustes del Resultado"
+
+#: pwhois_settings.php:13
+msgid "Show www. before domain field"
+msgstr "Mostrar \"www.\" antes del campo de dominio"
+
+#: pwhois_settings.php:17
+msgid "Show whois output in result"
+msgstr "Mostrar la salida WHOIS en el resultado"
+
+#: pwhois_settings.php:21
+msgid "Show on available domains"
+msgstr "Mostrar en dominios disponibles"
+
+#: pwhois_settings.php:25
+msgid "Show on unavailable domains"
+msgstr "Mostrar en dominios no disponibles"
+
+#: pwhois_settings.php:29
+msgid "Show on invalid domain"
+msgstr "Mostrar en dominios inválidos"
+
+#: pwhois_settings.php:34
+msgid "HTML before whois output"
+msgstr "HTML antes de la salida WHOIS"
+
+#: pwhois_settings.php:38
+msgid "HTML after whois output"
+msgstr "HTML después de la salida WHOIS"
+
+#: pwhois_settings.php:43
+msgid "Remark"
+msgstr "Observación"
+
+#: pwhois_settings.php:44
+msgid "The status of free/connected can not be determined with certainty"
+msgstr "El estado de disponibilidad no se puede determinar con certeza."
+
+#: pwhois_settings.php:50
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: pwhois_settings.php:56
+msgid "Powie's WHOIS Usage"
+msgstr "Uso de Powie's WHOIS"
+
+#: pwhois_settings.php:58
+msgid ""
+"To display the whois form on a page or post insert this shortcode: "
+"<code>[pwhois]</code>"
+msgstr ""
+"Para mostrar el formulario WHOIS en una página o entrada, inserta este "
+"shortcode en ella: <code>[pwhois]</code>"
+
+#: pwhois_settings.php:60
+msgid ""
+"To select the default TLD use the default parameter: <code>[pwhois "
+"default=com]</code>"
+msgstr ""
+"Para seleccionar el TLD por defecto, usa el parámetro \"default\": "
+"<code>[pwhois default=com]</code>"
+
+#: pwhois_settings.php:66
+msgid "Powie's WHOIS Pro"
+msgstr "Powie's WHOIS Pro"
+
+#: pwhois_settings.php:68
+msgid ""
+"To have more options and define your own TLDs and whois servers you can get "
+"Powie's WHOIS Pro"
+msgstr ""
+"Para tener más opciones y definir tus propios TLDs y servidores Whois, "
+"puedes obtener Powies WHOIS Pro"
+
+#: pwhois_settings.php:75
+msgid "About"
+msgstr "Acerca de"

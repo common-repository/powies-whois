@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plinks\n"
+"POT-Creation-Date: 2016-03-13 10:08+0100\n"
+"PO-Revision-Date: 2017-06-26 07:18+0300\n"
+"Language-Team: powie.de <te@powie.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../powies-whois.php:36
+msgid "Powies WHOIS Setup"
+msgstr "Настроить Powies WHOIS "
+
+#: ../powies-whois.php:58
+msgid "Domain"
+msgstr "Домен"
+
+#: ../powies-whois.php:73
+msgid "Check"
+msgstr "Проверить"
+
+#: ../powies-whois.php:75
+msgid "Waiting for domain lookup!"
+msgstr "Подождите, идет  поиск домена!"
+
+#: ../powies-whois.php:85
+msgid "Domain is free"
+msgstr "Домен свободен"
+
+#: ../powies-whois.php:88
+msgid "Domain is not free"
+msgstr "Домен занят"
+
+#: ../powies-whois.php:120
+msgid "Please enter Domain"
+msgstr "Пожалуйста, введите Доменное имя"
+
+#: ../powies-whois.php:211
+msgid "Whois Server timeout"
+msgstr "Тайм-аут сервера Whois"
+
+#: ../pwhois_settings.php:3
+msgid "Powies WHOIS Settings"
+msgstr " Настройки Powies  WHOIS"
+
+#: ../pwhois_settings.php:10
+msgid "Result Settings"
+msgstr " Настройки результата"
+
+#: ../pwhois_settings.php:14
+msgid "Show www. before domain field"
+msgstr "Показать www. перед полем домена"
+
+#: ../pwhois_settings.php:18
+msgid "Show whois output in result"
+msgstr "Показывать выписку whois в результате"
+
+#: ../pwhois_settings.php:22
+msgid "Show on free domain"
+msgstr "Показать при свободном домене"
+
+#: ../pwhois_settings.php:26
+msgid "Show on connected domain"
+msgstr "Показать при занятом домене"
+
+#: ../pwhois_settings.php:30
+msgid "Show on invalid domain"
+msgstr "Показать при недопустимом домене"
+
+#: ../pwhois_settings.php:35
+msgid "HTML before whois output"
+msgstr "HTML до выхода whois"
+
+#: ../pwhois_settings.php:39
+msgid "HTML after whois output"
+msgstr "HTML после  выхода whois"
+
+#: ../pwhois_settings.php:44
+msgid "Remark"
+msgstr "Примечание"
+
+#: ../pwhois_settings.php:45
+msgid "The status of free/connected can not be determined with certainty"
+msgstr ""
+"Статус свободного / занятого домена не может быть определен с уверенностью"
+
+#: ../pwhois_settings.php:51
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: ../pwhois_settings.php:57
+msgid "pWhois Usage"
+msgstr " Использование pWhois"
+
+#: ../pwhois_settings.php:59
+msgid ""
+"To display the whois form on a page or post insert this shortcode: "
+"<code>[pwhois]</code>"
+msgstr ""
+"Чтобы отобразить форму whois на странице или в посте, вставьте этот короткий "
+"код: <code>[pwhois]</code>"
+
+#: ../pwhois_settings.php:61
+msgid ""
+"To select the default TLD use the default parameter: <code>[pwhois "
+"default=com]</code>"
+msgstr ""
+"Для выбора стандартного TLD используйте параметр по умолчанию: <code>[pwhois "
+"default=com]</code>"
+
+#: ../pwhois_settings.php:67
+msgid "pWhois Pro"
+msgstr ""
+
+#: ../pwhois_settings.php:69
+msgid ""
+"To have more options and define your own TLDs and whois servers you can get "
+"Powies WHOIS Pro"
+msgstr ""
+"Чтобы иметь больше опций и определять свои собственные TLD и whois-серверы, "
+"вы можете получить Powies WHOIS Pro"
+
+#: ../pwhois_settings.php:76
+msgid "About"
+msgstr "О нас"
+
+msgid "pLinks Setup"
+msgstr "Установки pLinks"
+
+msgid "Thumbnail Settings"
+msgstr "Настройки миниатюр"
+
+msgid "Show Preview Images"
+msgstr "Показать эскиз изображений"
+
+msgid "Thumbnail Image Size"
+msgstr "Размер эскиза изображения"
+
+msgid "tiny"
+msgstr "очень маленький"
+
+msgid "small"
+msgstr "маленкий"
+
+msgid "medium"
+msgstr "средний"
+
+msgid "large"
+msgstr "большой"
+
+msgid "extra large"
+msgstr "очень большой"
+
+msgid ""
+"Simple use a shortcode on a page of your choice or create a new page and "
+"insert the following shortcode: <code>[plinks category_name=\"Blogroll\"]</"
+"code>. Use a category that exists!"
+msgstr ""
+"Просто используйте короткий код на странице по вашему выбору или создайте "
+"новую страницу и вставьте следующий короткий код: <code>[plinks "
+"category_name=\"Blogroll\"]</code>. Используйте категорию, которая "
+"существует!"
+
+msgid ""
+"To display a simple PagePeeker preview: <code>[pagepeeker url=http://www."
+"powie.de]</code>"
+msgstr ""
+"Чтобы отобразить простой предварительный просмотр PagePeeker: "
+"<code>[pagepeeker url=http://www.powie.de]</code>"
+
+msgid ""
+"To change the size of the preview image use the <b>size</b> parameter: "
+"<code>[pagepeeker url=http://www.powie.de size=l]</code>"
+msgstr ""
+"Чтобы изменить размер изображения предварительного просмотра, используйте "
+"параметр <b>size</b> Parameter:  <code>[pagepeeker url=http://www.powie.de "
+"size=l]</code>"
+
+msgid ""
+"Size is defined by PagePeeker: <code>t</code>, <code>s</code>, <code>m</"
+"code>, <code>l</code>, <code>x</code>"
+msgstr ""
+"Размер определяется PagePeeker: <code>t</code>, <code>s</code>, <code>m</"
+"code>, <code>l</code>, <code>x</code>"
+
+msgid "If no size is defined it uses the settings above!"
+msgstr "Если размер не определен, он использует настройки выше!"
+
+msgid "Happy Linking."
+msgstr ""
